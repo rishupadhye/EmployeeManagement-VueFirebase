@@ -1,4 +1,4 @@
-# vfiretutorial
+# Employee Management System using Vue and FireStore
 
 ## Project setup
 ```
